@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">project-essay-e-comm</string>
+    <string name="title_activity_login_sreen">LoginSreen</string>
 </resources>
